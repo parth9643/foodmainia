@@ -1,0 +1,48 @@
+<div id="front">
+            <h1>welcome to foodmania</h1>
+    
+        <p>
+
+            This is best food odering website in india.
+            For us Consumer come first
+            You can get Best and Tasty food here .In our first order you can get upto 50% off while odering as we care for you only .Our food is 100% healthy and tested
+            Foodmaina has grand plans to be India’s most loved hyper local player, It aims to be the most accessible platform on the network - hyperlocal, horizontal and across categories.
+           
+
+        </p>
+
+
+        <button class="btn">order now</button>
+    </div>
+
+    <h1 class="h-primary ">Our Services</h1>
+    <section id="services-container">
+        <div id="services">
+            <div class="box">
+                <img src="https://cdn.pixabay.com/photo/2016/11/06/23/31/breakfast-1804457_1280.jpg" alt="">
+                <h2 class="h-secondary ">Food Catering</h2>
+                <p class="center"Are you looking for the best veg food catering service in India with tasty and desirable vegetarian options on menus that you have ever seen before? Or are you planning a family function or a corporate party and want to have a vegetarian menu for the occasion? In that case, you are lucky to come across this website. 
+                  </p>
+            </div>
+            <div class="box">
+                <img src="https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_1280.jpg" alt="">
+                <h2 class="h-secondary ">Bulk Ordering</h2>
+                <p class="center">Bulk Orders
+                    We know how bulk ordering can be quite a task but worry not, we understand all your shopping needs &
+                    strive to meet them as effectively and conveniently as possible.
+
+                    Genuine brands, great prices, no anxiety shipping and hassle-free returns, we are the one-stop shop
+                    for all your bulk/customized orders.
+
+
+                 </p>
+            </div>
+            <div class="box">
+                <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/201903/online-food-ordering-_660_032619035330.jpg" alt="">
+                <h2 class="h-secondary ">Food Ordering</h2>
+                <p class="center"A food delivery website that provides food delivery at your door in very less time and with the best packaging. Providing food from every famous food place near you. Order food with the best user experience.
+                Our Online food ordering systems are specially developed and created to enable restaurant owners to manage with effectiveness
+                 </p>
+            </div>
+        </div>
+    </section>
