@@ -1,0 +1,23 @@
+  <section id="our-patners">
+
+        <div id="clients">
+            <h3>Our partners</h3>
+            <div class="client-item">
+                <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/1200px-Dominos_pizza_logo.svg.png">
+            </div>
+            <div class="client-item">
+                <img src="https://blog.logomyway.com/wp-content/uploads/2017/01/mcdonalds-logo-1.jpg">
+            </div>
+            <div class="client-item">
+                <img src="https://i.pinimg.com/736x/15/a1/0b/15a10bcc2406f1b33749e95936920b6c.jpg">
+            </div>
+            <div class="client-item">
+                <img src="https://cia.imgix.net/files/blog/full/image130.jpg">
+            </div>
+            <div class="client-item">
+                <img src="https://1000logos.net/wp-content/uploads/2017/05/Pizza-Hut-Logo-1999.jpg">
+            </div>
+
+        </div>
+    </section>
